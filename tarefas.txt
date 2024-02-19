@@ -6,4 +6,4 @@
 5- Enviar para o Matias link para criar ambiente de desenvolvimento 
 6- Dar nome ao projeto
 7- Enviar link para o Matias fazer git clone
-
+8- Adicionar o README.md
