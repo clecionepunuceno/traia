@@ -1,0 +1,9 @@
+1- Verificar viabilidade do projeto
+	Tem dados possíveis para a extração e análise?
+2- Fazer rascunho do projeto para enviar para o Matias via git
+3- Verificar com Andréia contato para entender a verba parlamentar de Piracicaba
+4- Criar ambiente para as dailys
+5- Enviar para o Matias link para criar ambiente de desenvolvimento 
+6- Dar nome ao projeto
+7- Enviar link para o Matias fazer git clone
+
